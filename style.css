@@ -1,0 +1,73 @@
+    ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+    
+    li {
+        color: #fff;
+    }
+    
+    h6 {
+        font-size: 10px;
+        text-align: center;
+    }
+    
+    .imigr {
+        background-color: rgb(209, 206, 206);
+    }
+    
+    .countries {
+        margin-bottom: 48px;
+    }
+    
+    .card {
+        border: none
+    }
+    
+    .card-title {
+        font-size: larger;
+    }
+    
+    .card-text {
+        font-size: 12px;
+    }
+    
+    .arrow {
+        color: rgb(241, 139, 4);
+    }
+    
+    .read {
+        font-size: 10px;
+        font-weight: bold;
+    }
+    
+    .container {
+        width: 65%
+    }
+    
+    img {
+        width: 30%;
+    }
+    
+    #flag {
+        border-radius: 50%;
+    }
+    
+    #map {
+        width: 100%;
+    }
+    
+    .location {
+        color: white;
+        background-color: rgb(241, 139, 4);
+        font-size: small;
+    }
+    
+    .location_arrow {
+        padding-left: 6px;
+    }
+    
+    .world {
+        font-size: 14px;
+    }
