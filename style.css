@@ -34,7 +34,7 @@
     }
     
     .arrow {
-        color: rgb(241, 139, 4);
+        color: #e46425;
     }
     
     .read {
@@ -60,7 +60,7 @@
     
     .location {
         color: white;
-        background-color: rgb(241, 139, 4);
+        background-color: #e46425;
         font-size: small;
     }
     
@@ -70,4 +70,62 @@
     
     .world {
         font-size: 14px;
+    }
+    
+    .services {
+        background-color: #e46425;
+        padding: 60px;
+        padding-left: 80px;
+    }
+    
+    .visa {
+        background-color: rgba(19, 9, 105, 0.63);
+        padding: 60px;
+    }
+    
+    .more {
+        background-color: rgba(12, 6, 71, 0.863);
+        font-size: 10px;
+        font-weight: bold;
+        margin-top: 12px;
+    }
+    
+    .type_visa {
+        font-size: 14px;
+    }
+    
+    .formular {
+        background-color: #f3f3f3;
+    }
+    
+    hr {
+        width: 3%;
+        background-color: #e46425;
+        margin: auto;
+        height: 1px !important;
+        opacity: 1;
+        margin-bottom: 50px;
+        margin-top: 8px;
+    }
+    
+    .form-group {
+        padding: 0;
+        margin: 0;
+    }
+    
+    .required:after {
+        content: " *";
+        color: #e46425;
+    }
+    
+    .request {
+        padding-top: 33px;
+    }
+    
+    .phone {
+        background-color: rgba(12, 6, 71, 0.863);
+    }
+    
+    #number {
+        color: #e46425;
     }
