@@ -14,7 +14,7 @@
     }
     
     .imigr {
-        background-color: rgb(209, 206, 206);
+        background-color: #f3f3f3;
     }
     
     .countries {
@@ -79,7 +79,7 @@
     }
     
     .visa {
-        background-color: rgba(19, 9, 105, 0.63);
+        background-color: #354374;
         padding: 60px;
     }
     
@@ -123,9 +123,23 @@
     }
     
     .phone {
-        background-color: rgba(12, 6, 71, 0.863);
+        background-color: #121b52;
     }
     
     #number {
         color: #e46425;
+    }
+    
+    footer {
+        background-color: #050d3c;
+        font-size: small;
+    }
+    
+    .subscribe {
+        background-color: #e46425;
+        font-size: small;
+    }
+    
+    .bi-arrow-right-circle {
+        font-size: smaller;
     }
