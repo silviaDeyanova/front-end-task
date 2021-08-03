@@ -1,4 +1,58 @@
 body {
-   height: 100%;
-  }
-  
+    height: 100%;
+}
+
+.button {
+    background-color: #5c90d2;
+}
+
+.date {
+    margin-right: 0 !important;
+}
+
+th,
+td {
+    border: 1px solid #f0f0f0;
+    border-collapse: collapse;
+}
+
+td.table-secondary {
+    background-color: #f9f9f9;
+    border: 1px solid #f0f0f0;
+}
+
+ul.nav.nav-tabs.mb-3 {
+    background-color: #f9f9f9;
+}
+
+.heading {
+    background-color: #f9f9f9;
+}
+
+input.form-control.sum {
+    background-color: #eeeeee;
+}
+
+.price {
+    width: 50%
+}
+
+input.form-control.left-sum {
+    border: none;
+}
+
+input.form-control.all-sum {
+    border: none;
+}
+
+.left-sum::placeholder {
+    color: #198754;
+}
+
+.all-sum::placeholder {
+    color: #0d6efd;
+}
+
+.agent-payments {
+    padding-left: 41px;
+}
