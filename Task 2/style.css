@@ -56,3 +56,19 @@ input.form-control.all-sum {
 .agent-payments {
     padding-left: 41px;
 }
+
+.form-control:disabled {
+    background-color: white;
+}
+
+.bordered {
+    border: 1px solid #f0f0f0;
+    padding-bottom: 60px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+input.form-control.code {
+    border: none;
+    font-weight: bold;
+}
